@@ -1,1 +1,0 @@
-# docker-and-k8s-IM-18-April-2025
